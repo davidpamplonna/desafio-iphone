@@ -22,6 +22,7 @@ desafio-iphone/
 
 ### Exemplo de Diagrama UML
 
+```mermaid
 classDiagram
     class ReprodutorMusical {
         +exemploMetodo1()
@@ -44,6 +45,8 @@ classDiagram
     iPhone --> ReprodutorMusical
     iPhone --> AparelhoTelefonico
     iPhone --> NavegadorInternet
+```
+
 
 
 
